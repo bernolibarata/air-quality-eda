@@ -1,5 +1,3 @@
-## Air-Quality-EDA
-
 # Air Quality Exploratory Data Analysis (EDA)
 
 ## Overview
