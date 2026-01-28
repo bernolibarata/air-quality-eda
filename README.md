@@ -77,7 +77,9 @@ These results provide a reliable foundation for further statistical analysis or 
 ## Data Availability
 
 Due to size constraints, the raw measurement files are not included in the data folder. 
+
 The data was obtained from the QualAr platform, and a complete list of the files used in this project is provided in the `stations_measures_used.csv` file.
+
 This allows the analysis to be fully reproducible by downloading the same datasets from the original source.
 
 --------------------------------
